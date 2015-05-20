@@ -10,4 +10,6 @@ To install: download the provided file, resource.dat.  Navigate to your game's r
 
 BACK UP YOUR ORIGINAL RESOURCE.DAT FILE!  Replace the original resource.dat with the one I provided, keeping your original backed up in a safe location.
 
+This file was last updated for FTL version 1.5.13 on Steam.
+
 Enjoy!
